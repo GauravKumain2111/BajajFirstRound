@@ -4,7 +4,6 @@ public class WebhookResponse {
     private String webhook;
     private String accessToken;
 
-    // Getters and Setters
     public String getWebhook() {
         return webhook;
     }
